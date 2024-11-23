@@ -3,9 +3,8 @@
 #include <string>
 using namespace std;
 int main() {
-    TedString t = "hello world!";
+    TedString t = "hello";
     TedString t2 = "hello world!";
-    t.clear();
     cout << t;
     return 0;
 }
